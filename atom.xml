@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>D2</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-11-27T11:08:31.057Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>D2</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/11/26/hello-world/"/>
+    <id>http://example.com/2022/11/26/hello-world/</id>
+    <published>2022-11-26T08:28:37.031Z</published>
+    <updated>2022-11-27T11:08:31.057Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to [D2&amp;pp]! This is ours very first post. If you have any probloms,contact us via the above contact method.</p><h3 id="INFORMATION"><a href="#INFORMATION" class="headerlink" title="INFORMATION"></a>INFORMATION</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">D2：董佳鑫 pp：朴辛鹤</span><br><span class="line">学号 2022211198 202221200</span><br><span class="line">班级 2022211307</span><br><span class="line">D2:天津市蓟州区 pp:黑龙江大庆市</span><br></pre></td></tr></table></figure><p>More info: <a href="https://baike.baidu.com/item/%E8%93%9F%E5%B7%9E%E5%8C%BA/19757354?fr=aladdin">蓟州</a> <a href="https://baike.baidu.com/item/%E5%A4%A7%E5%BA%86/138196?fr=aladdin">大庆</a></p><h3 id="our-common-hobby"><a href="#our-common-hobby" class="headerlink" title="our common hobby"></a>our common hobby</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">追星！！(no doubt)</span><br></pre></td></tr></table></figure><p>More info: <a href="https://baike.baidu.com/item/EXO/2219893?fr=aladdin">exo(must know!)</a></p><h3 id="about-game"><a href="#about-game" class="headerlink" title="about game"></a>about game</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">原神 <span class="built_in">id</span>:239410312 光与夜之恋(77老婆集合)</span><br></pre></td></tr></table></figure><p>More info: <a href="https://baike.baidu.com/link?url=oMh_uUirdEqO-D9EX7ECKyV4vInc1l2P_54fBHtRetzaz44qoGPmH2nCFihy4rYUtICB9lAc2G-ErnRaLy7jDehc5CZqIzwe_xwXuN6zoY1WJPFEB5jPDnFhrYIELiox">附上老公帅照</a></p><h3 id="else"><a href="#else" class="headerlink" title="else"></a>else</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">D2是个喜欢发朋友圈的话痨(仅限于朋友圈)</span><br><span class="line">pp是个与头像极不符的80姐</span><br></pre></td></tr></table></figure><p>More info: <a href="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%83%B3%E4%BB%80%E4%B9%88%E5%91%A2%E8%A1%A8%E6%83%85%E5%8C%85&step_word=&hs=0&pn=1&spn=0&di=7163459808492781569&pi=0&rn=1&tn=baiduimagedetail&is=0,0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=2491408814,2371421809&os=3469662069,4149978780&simid=2491408814,2371421809&adpicid=0&lpn=0&ln=1278&fr=&fmq=1669543137258_R&fm=result&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https://gimg2.baidu.com/image_search/src=http://img.soogif.com/01woQgp2LicqsxDVaNiayCIzOfdoVO9Q.jpeg&refer=http://img.soogif.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1672135139&t=f080da76206b8847866af0872ec6b7b5&fromurl=ippr_z2C$qAzdH3FAzdH3Fooo_z&e3Bf552tu_z&e3Bv54AzdH3F4wpj6twsPw2jAzdH3FIrx7Y3nD3iM&gsm=1e&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined&dyTabStr=MCw0LDMsMiwxLDYsNSw4LDcsOQ==">我们的图片</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to [D2&amp;amp;pp]! This is ours very first post. If you have any probloms,contact us via the above contact method.&lt;/p&gt;
+&lt;h3 id=&quot;INFOR</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
