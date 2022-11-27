@@ -105,5 +105,5 @@ theme: Cxo
 deploy:
     type: git
     repository: ssh://git@github.com:foreverD2/foreverD2.github.io.git
-    brandh: master
+    branch: main
     messge: 
